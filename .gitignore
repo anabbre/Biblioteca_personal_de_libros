@@ -1,0 +1,17 @@
+#Ignorar el entorno virtual
+venv/
+.venv/ 
+
+#Ignorar directorios de caché de Python
+__pycache__/
+
+#Ignorar archivos compilados de Python
+*.pyc
+
+#Ignorar archivos de base de datos SQLite locales
+*.db
+*.sqlite
+*.sqlite3
+
+#Ignorar archivos de configuración del entorno virtual generados automáticamente
+pyvenv.cfg
