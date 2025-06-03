@@ -138,5 +138,6 @@ Este script enviará peticiones HTTP a tu API para verificar su funcionalidad, m
 
 ## 👩‍💻 Autora
 
-**Ana Belén Ballesteros**
+**Ana Belén Ballesteros**  
+
 **Estudiante del Máster en IA, Cloud Computing y DevOps**
